@@ -14,7 +14,7 @@ public class EnemyWaveManager : MonoBehaviour
 
     [Header("Wave Configuration")]
     [SerializeField] private float waveInterval = 10f;
-    [SerializeField] private int intialEnemiesPerWave = 5;
+    [SerializeField] private int intialEnemiesPerWave = 2;
     [SerializeField] private float initialDelay = 4f;
 
     [Header("Spawning Configuration")]

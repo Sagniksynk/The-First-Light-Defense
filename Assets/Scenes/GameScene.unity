@@ -11520,7 +11520,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   waveInterval: 10
-  intialEnemiesPerWave: 5
+  intialEnemiesPerWave: 2
   initialDelay: 4
   spawnPositionTranform:
   - {fileID: 1477518154}
