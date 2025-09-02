@@ -48,7 +48,7 @@ This project is built around a data-driven architecture, making it easy to exten
 ### Installation
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone https://github.com/Sagniksynk/The-First-Light-Defense.git
     ```
 2.  Open Unity Hub and add the cloned project folder.
 3.  Launch the project in the Unity Editor.
@@ -61,9 +61,7 @@ This project is built around a data-driven architecture, making it easy to exten
 The project is structured for multi-platform deployment. With the provided code, it can be built for:
 * **PC (Standalone):** The default control scheme uses a keyboard and mouse.
 * **WebGL:** Runs in a web browser.
-* **Android:** Includes code stubs and logic structure for implementing touch controls (see `CameraHandler.cs`).
 
-To build for a specific platform, go to **File > Build Settings**, select your target, and click **Switch Platform**.
 
 ## 📄 License
 
