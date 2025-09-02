@@ -36,11 +36,18 @@ This project is built around a data-driven architecture, making it easy to exten
 * **Singleton Managers:** Core systems like the `BuildingManager`, `ResourceManager`, and `EnemyWaveManager` are implemented as singletons for easy access and clear control over the game state.
 * **Event-Driven Logic:** The code makes extensive use of C# events (`event EventHandler`) to decouple systems. For example, the UI updates automatically when resource amounts change, without being directly told to by the resource generator.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 ### Built With
 
 
 * [![Unity][Unity.com]][Unity-url]
 * [![C#][CSharp.net]][CSharp-url]
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Getting Started
 
