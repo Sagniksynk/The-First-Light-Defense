@@ -1,6 +1,6 @@
 # The First Light Defense
 
-![Gameplay GIF or Screenshot](https://via.placeholder.com/800x450.png?text=Gameplay+GIF+Here)
+![Gameplay GIF or Screenshot](Assets/FLD.gif)
 
 The First Light Defense is a classic 2D tower defense game built from the ground up in Unity. Players must strategically build and manage resources to defend their Headquarters (HQ) from increasingly difficult waves of enemies. The project is designed with a scalable architecture using Scriptable Objects and demonstrates a wide range of Unity features, including a responsive UI, dynamic audio systems, and post-processing effects.
 
